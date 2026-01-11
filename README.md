@@ -5,15 +5,11 @@ I'm a **Data Analyst** focused on **data preparation, data visualization, data m
 🏢 I’m currently working at **@Itau-Unibanco**  
 💻 I'm currently focused on learning **Math, Python, AI, Machine Learning, Data Science, and MLOps**  
 
-<br>
-
 ## ⭐ Certifications
 - 🎓 Bachelor in **Statistics**  
 - 🎓 Technologist in **Big Data and Analytical Intelligence**  
 - 🛠 Specializing in **Machine Learning Engineering**
 - 🏅 **AWS Certified Cloud Practitioner**
-
-<br>
 
 ## 🛠 Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
