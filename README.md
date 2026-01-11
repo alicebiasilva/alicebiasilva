@@ -12,7 +12,7 @@ I'm a **Data Analyst** focused on **data preparation, data visualization, data m
 - 🏅 **AWS Certified Cloud Practitioner**
 
 ## 🎥 Youtube Channel 
-[Click here to see me presenting and talking about my projects](https://www.youtube.com/@alice_biahs)
+[Click here](https://www.youtube.com/@alice_biahs) to see me presenting and talking about my projects
 
 ## 🛠 Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
