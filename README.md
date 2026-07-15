@@ -10,7 +10,7 @@ I'm a **Data Analyst** focused on **data preparation, data visualization, data m
 - 🎓 Technologist in **Big Data and Analytical Intelligence**  
 - 🛠 Specializing in **Machine Learning Engineering**
 - 🏅 **AWS Cloud Practitioner Certified**
-- - 🏅 **AWS IA Practitioner Certified**
+- 🏅 **AWS IA Practitioner Certified**
 
 ## 🎥 Youtube Channel 
 [Click here](https://www.youtube.com/@alice_biahs) to see me presenting and talking about my projects
